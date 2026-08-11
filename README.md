@@ -1,0 +1,1 @@
+This is a professional portfolio for Erika Pyper Anderson. Contained within is a SQL, excel, and capstone project. You can also find my contact information, applicable social media links, and some general information about myself and my skills. Thank you for visiting!
